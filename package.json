@@ -8,10 +8,11 @@
   },
   "dependencies": {
     "@lucid-agents/core": "latest",
+    "@lucid-agents/hono": "0.7.20",
     "@lucid-agents/http": "latest",
-    "@lucid-agents/hono": "latest",
     "@lucid-agents/payments": "latest",
     "hono": "^4.0.0",
+    "viem": "^2.45.1",
     "zod": "^4.0.0"
   }
 }
